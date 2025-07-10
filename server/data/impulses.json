@@ -1,0 +1,106 @@
+[
+  {
+    "item": "phone",
+    "price": 123,
+    "status": "bought",
+    "regretRating": 1,
+    "date": "2025-07-08T20:26:56.846Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "laptop",
+    "price": 12345,
+    "status": "bought",
+    "regretRating": 2,
+    "date": "2025-07-09T16:14:20.744Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "headphones",
+    "price": 5000,
+    "status": "skipped",
+    "regretRating": null,
+    "date": "2025-07-09T16:36:58.055Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "mouse",
+    "price": 2000,
+    "status": "skipped",
+    "regretRating": null,
+    "date": "2025-07-09T16:39:08.685Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "tshirt",
+    "price": 1234,
+    "status": "skipped",
+    "regretRating": null,
+    "date": "2025-07-09T16:42:46.779Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "pant",
+    "price": 1234,
+    "status": "bought",
+    "regretRating": 5,
+    "date": "2025-07-09T16:43:11.412Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "shoes",
+    "price": 12345,
+    "status": "skipped",
+    "regretRating": null,
+    "date": "2025-07-09T16:55:14.727Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "watch",
+    "price": 4000,
+    "status": "bought",
+    "regretRating": 4,
+    "date": "2025-07-09T16:56:00.624Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "pen",
+    "price": 100,
+    "status": "bought",
+    "regretRating": 7,
+    "date": "2025-07-09T16:58:47.806Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "earbuds",
+    "price": 25000,
+    "status": "skipped",
+    "regretRating": null,
+    "date": "2025-07-09T17:04:30.541Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "bag",
+    "price": 5000,
+    "status": "bought",
+    "regretRating": 4,
+    "date": "2025-07-09T17:04:48.439Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "phone",
+    "price": 114342,
+    "status": "skipped",
+    "regretRating": null,
+    "date": "2025-07-09T20:15:07.034Z",
+    "user": "aryan_singh@srmap.edu.in"
+  },
+  {
+    "item": "Shoes",
+    "price": 5500,
+    "status": "bought",
+    "regretRating": 8,
+    "date": "2025-07-09T20:22:41.817Z",
+    "user": "aryan_singh@srmap.edu.in"
+  }
+]
